@@ -69,12 +69,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "The Asian Sages Lao-tzu, Confucius, and Buddha.md",
+                    "file": "The Wise Man Socrates.sync-conflict-20250213-161508-UJJAXBD.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "The Asian Sages Lao-tzu, Confucius, and Buddha"
+                  "title": "The Wise Man Socrates.sync-conflict-20250213-161508-UJJAXBD"
                 }
               }
             ]
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "The Wise Man Socrates.sync-conflict-20250213-161508-UJJAXBD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for The Wise Man Socrates.sync-conflict-20250213-161508-UJJAXBD"
             }
           },
           {
@@ -242,8 +242,19 @@
               "icon": "lucide-list",
               "title": "Outline of Info"
             }
+          },
+          {
+            "id": "bc58395c40e84f25",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -256,16 +267,17 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f7867ea8cea7aa3b",
+  "active": "9fa62fdc6f95b979",
   "lastOpenFiles": [
     "The Asian Sages Lao-tzu, Confucius, and Buddha.md",
+    "Books/Archetypes of Wisdom: An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015 -- Cengage Learning -- 9781285874319 -- 98784a9b5983cd9ff9c6585bc5f1d5b6 -- Anna’s Archive.pdf",
     "Untitled.canvas",
     "The Philosopher-King Plato.md",
     "Untitled.md",
-    "Books/Archetypes of Wisdom: An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015 -- Cengage Learning -- 9781285874319 -- 98784a9b5983cd9ff9c6585bc5f1d5b6 -- Anna’s Archive.pdf",
     "The Wise Man Socrates.md",
     "Learning objective references.md",
     "The Wise Man Socrates.sync-conflict-20250213-161508-UJJAXBD.md",
