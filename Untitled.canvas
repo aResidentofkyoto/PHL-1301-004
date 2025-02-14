@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"64ab0e416d0ef910","x":-291,"y":-368,"width":250,"height":60,"type":"text","text":"Laozi (575 BCE)"},
+		{"id":"43e9c91e92763f0a","x":-188,"y":-223,"width":250,"height":60,"type":"text","text":"Confucius (551-497 BCE)"},
+		{"id":"52f00f911db9d8c3","x":-128,"y":-71,"width":250,"height":60,"type":"text","text":"Siddhartha Gautama (560480)"}
+	],
+	"edges":[]
+}

@@ -1,0 +1,280 @@
+{
+  "main": {
+    "id": "29c76b32d9608250",
+    "type": "split",
+    "children": [
+      {
+        "id": "847707a502f6ef16",
+        "type": "split",
+        "children": [
+          {
+            "id": "a4bba701da3bd4ac",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5a59d463d4331c74",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Learning objective references.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Learning objective references"
+                }
+              },
+              {
+                "id": "f7867ea8cea7aa3b",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Untitled.canvas",
+                    "viewState": {
+                      "x": 0,
+                      "y": -223.20000000000002,
+                      "zoom": 0
+                    }
+                  },
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Untitled"
+                }
+              },
+              {
+                "id": "1383c72b876ac9fd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "The Wise Man Socrates.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "The Wise Man Socrates"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "d249b4a00a6c8952",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7fbaf709a83ad08e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "The Asian Sages Lao-tzu, Confucius, and Buddha.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "The Asian Sages Lao-tzu, Confucius, and Buddha"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "0bcc0a986ef6d311",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5efe4e05a3a3c391",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Books/Archetypes of Wisdom: An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015 -- Cengage Learning -- 9781285874319 -- 98784a9b5983cd9ff9c6585bc5f1d5b6 -- Anna’s Archive.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Archetypes of Wisdom: An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015 -- Cengage Learning -- 9781285874319 -- 98784a9b5983cd9ff9c6585bc5f1d5b6 -- Anna’s Archive"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2c1dee6217c8cf23",
+    "type": "split",
+    "children": [
+      {
+        "id": "177e231621807814",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fa62fdc6f95b979",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1783f3ddf0209730",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Socrates",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6d4392c39e2a759f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cc4a4482e6eb199c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0761a19f671c4ee",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "58e1930cf2cff001",
+    "type": "split",
+    "children": [
+      {
+        "id": "89009a8eb8bf3f56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcd3259c84745981",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "ebf8b4057a2af0be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Info.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Info"
+            }
+          },
+          {
+            "id": "1faa365adfc0f613",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b1b0d03777d793d2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Info.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Info"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f7867ea8cea7aa3b",
+  "lastOpenFiles": [
+    "The Asian Sages Lao-tzu, Confucius, and Buddha.md",
+    "Untitled.canvas",
+    "The Philosopher-King Plato.md",
+    "Untitled.md",
+    "Books/Archetypes of Wisdom: An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015 -- Cengage Learning -- 9781285874319 -- 98784a9b5983cd9ff9c6585bc5f1d5b6 -- Anna’s Archive.pdf",
+    "The Wise Man Socrates.md",
+    "Learning objective references.md",
+    "The Wise Man Socrates.sync-conflict-20250213-161508-UJJAXBD.md",
+    "Philosophy and the Search for Wisdom.md",
+    "Learning objective refreances.md",
+    "Intro Syllabus 86641.pdf",
+    "Notes.md",
+    "Philosophy and the Search for Wisdom Notes.md",
+    "Info.md",
+    "1-24-25.md"
+  ]
+}
