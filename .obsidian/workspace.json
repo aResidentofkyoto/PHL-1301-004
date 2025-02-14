@@ -56,12 +56,14 @@
             "id": "7fbaf709a83ad08e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Books/Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015.pdf"
+                "file": "Philosophy and the Search for Wisdom.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015"
+              "icon": "lucide-file",
+              "title": "Philosophy and the Search for Wisdom"
             }
           }
         ],
@@ -158,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015.pdf",
+                "file": "Philosophy and the Search for Wisdom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +170,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015"
+              "title": "Backlinks for Philosophy and the Search for Wisdom"
             }
           },
           {
@@ -240,8 +242,8 @@
   },
   "active": "7fbaf709a83ad08e",
   "lastOpenFiles": [
-    "Info.md",
     "Books/Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015.pdf",
+    "Info.md",
     "Intro Syllabus 86641.pdf",
     "The Wise Man Socrates.sync-conflict-20250213-161508-UJJAXBD.md",
     "The Asian Sages Lao-tzu, Confucius, and Buddha.md",
