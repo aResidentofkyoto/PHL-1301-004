@@ -1,6 +1,6 @@
 > Relativism - The belief that knowledge is determined by specific qualities of the observer, including age, ethnicity, gender, and cultural conditioning.
 
-[[Archetypes of Wisdom: An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015 -- Cengage Learning -- 9781285874319 -- 98784a9b5983cd9ff9c6585bc5f1d5b6 -- Anna’s Archive.pdf#page=43&selection=65,0,72,22|Archetypes of Wisdom: An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015 -- Cengage Learning -- 9781285874319 -- 98784a9b5983cd9ff9c6585bc5f1d5b6 -- Anna’s Archive, page 43]]
+[[Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015.pdf#page=43&selection=65,0,72,22|Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015, page 43]]
 
 Is there a way to tell if someone has a relative viewpoint?
 	#omo: If the person forms an opinion and says that there is no full truth.
@@ -24,7 +24,7 @@ wisdom using experienced knowledge
 ## Quote
 > If you’re reading this book as part of an academic course, I recommend treating your introduction to philosophy as an opportunity to distinguish between saying philosophical-sounding things and actually philosophizing. Perhaps the chief difference between just talking about philosophical ideas and actually philosophizing about them involves the degree of rigor and discipline you apply to your reflections.
 
-[[Archetypes of Wisdom: An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015 -- Cengage Learning -- 9781285874319 -- 98784a9b5983cd9ff9c6585bc5f1d5b6 -- Anna’s Archive.pdf#page=36&selection=45,0,50,11|Archetypes of Wisdom: An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015 -- Cengage Learning -- 9781285874319 -- 98784a9b5983cd9ff9c6585bc5f1d5b6 -- Anna’s Archive, page 36]]
+[[Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015.pdf#page=36&selection=45,0,50,11|Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015, page 36]]
 
 #teacher: What does this mean.
 #Class: Applying your own thoughts.

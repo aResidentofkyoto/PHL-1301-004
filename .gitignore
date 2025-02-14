@@ -1,3 +1,4 @@
-/Books
+/Books/*
 /.obsidian/themes
 /.obsidian/plugins
+.DS_Store

@@ -20,23 +20,23 @@
 
 > In his impressive book Socrates, the renowned classical scholar W. K. C. Guthrie says, “Any account must begin with the admission that there is, and always will be, a ‘Socratic problem.’” 1 In the first place, Socrates wrote nothing.
 
-[[Archetypes of Wisdom: An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015 -- Cengage Learning -- 9781285874319 -- 98784a9b5983cd9ff9c6585bc5f1d5b6 -- Anna’s Archive.pdf#page=128&selection=33,0,43,4|Archetypes of Wisdom: An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015 -- Cengage Learning -- 9781285874319 -- 98784a9b5983cd9ff9c6585bc5f1d5b6 -- Anna’s Archive, page 128]]
+[[Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015.pdf#page=128&selection=33,0,43,4|Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015, page 128]]
 
 ## Paradigmatic individual
 
 > These human paradigms possess a timeless quality, according to Jaspers. They serve as archetypal images for their cultures and usually speak to other cultures as well. Although different cultures and eras produce different archetypes (Jaspers used as his examples Socrates, Confucius, Buddha, and Jesus), the archetypal individual’s very nature demands a response: What is it to be a human being? What is most important? What is good? How should I live?
 
-[[Archetypes of Wisdom: An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015 -- Cengage Learning -- 9781285874319 -- 98784a9b5983cd9ff9c6585bc5f1d5b6 -- Anna’s Archive.pdf#page=134&selection=0,2,32,5|Archetypes of Wisdom: An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015 -- Cengage Learning -- 9781285874319 -- 98784a9b5983cd9ff9c6585bc5f1d5b6 -- Anna’s Archive, page 134]]
+[[Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015.pdf#page=134&selection=0,2,32,5|Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015, page 134]]
 
 ## #Socrates Claim of innocence
 
 > Socrates always insisted that his “wisdom” lay in knowing what he did not know.
 
-[[Archetypes of Wisdom: An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015 -- Cengage Learning -- 9781285874319 -- 98784a9b5983cd9ff9c6585bc5f1d5b6 -- Anna’s Archive.pdf#page=134&selection=61,0,61,79|Archetypes of Wisdom: An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015 -- Cengage Learning -- 9781285874319 -- 98784a9b5983cd9ff9c6585bc5f1d5b6 -- Anna’s Archive, page 134]]
+[[Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015.pdf#page=134&selection=61,0,61,79|Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015, page 134]]
 
 > We saw in Chapter 2 that the sage was considered “strange” and “alien,” atopos in Greek. But this kind of strangeness can be trivialized or dismissed as merely odd or eccentric. The paradigmatic individual may be just as “strange” as the sage, but in a manner that is more personally disturbing, more deeply unsettling to our everyday habits and values.
 
-[[Archetypes of Wisdom: An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015 -- Cengage Learning -- 9781285874319 -- 98784a9b5983cd9ff9c6585bc5f1d5b6 -- Anna’s Archive.pdf#page=134&selection=66,0,74,18|Archetypes of Wisdom: An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015 -- Cengage Learning -- 9781285874319 -- 98784a9b5983cd9ff9c6585bc5f1d5b6 -- Anna’s Archive, page 134]]
+[[Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015.pdf#page=134&selection=66,0,74,18|Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015, page 134]]
 
 # #Class Notes
 
@@ -65,7 +65,7 @@ More of a wanderer who debated people.
 > 	
 > 	Let’s put it to the vote, so that I may know as quickly as possible the forfeit I have to pay.7 When the votes were counted, Socrates lost unanimously, prompting him to accuse Critobulus of bribing the judges.
 
-[[Archetypes of Wisdom: An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015 -- Cengage Learning -- 9781285874319 -- 98784a9b5983cd9ff9c6585bc5f1d5b6 -- Anna’s Archive.pdf#page=130&selection=37,44,67,66|Archetypes of Wisdom: An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015 -- Cengage Learning -- 9781285874319 -- 98784a9b5983cd9ff9c6585bc5f1d5b6 -- Anna’s Archive, page 130]]
+[[Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015.pdf#page=130&selection=37,44,67,66|Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015, page 130]]
 
 ## #Sophists 
 Teach for money
@@ -80,7 +80,7 @@ helped with government control through relativism
 
 > [!warning] Debates are scewed becrause second hand dialogs
 
-[[Archetypes of Wisdom: An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015 -- Cengage Learning -- 9781285874319 -- 98784a9b5983cd9ff9c6585bc5f1d5b6 -- Anna’s Archive.pdf#page=140&selection=15,0,15,21|Archetypes of Wisdom: An Introduction to Philosophy, The Wise Man: Socrates, Sophos Versus Sophist, page 140]]
+[[Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015.pdf#page=140&selection=15,0,15,21|Archetypes of Wisdom: An Introduction to Philosophy, The Wise Man: Socrates, Sophos Versus Sophist, page 140]]
 
 Order of discussing with a sophist
 1. complement sophist is open
