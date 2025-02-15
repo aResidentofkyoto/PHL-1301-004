@@ -2,7 +2,7 @@
 
 ##  Identify the sources of Plato’s disillusionment. 
 
-##  Explain the creation of the Academy and its chief purpose. 
+##  Explain the creation of #The_Academy and its chief purpose. 
 
 
 ##  Explain why Plato needed Forms. 
@@ -20,4 +20,22 @@
 ##  Analyze Plato’s theory of the development and decline of democracy. 
  
 ##  Describe the tyrannical soul, according to Plato.
- 
+
+# Book Notes
+
+## Plato wrote 
+
+> Our chief source of information regarding Plato’s philosophy is Plato himself
+
+[[Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015.pdf#page=160&selection=53,0,53,77|Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015, page 160]]
+
+## The Divided Line
+
+| # Metaphysics                             | Epistemology  |           |
+| ----------------------------------------- | ------------- | --------- |
+| Higher forms Example: the good            | Understanding | Knowledge |
+| Lower forms Example: Form human           | Reasoning     | Knowledge |
+| Sensible objects Example: nelson Mandela  | Perception    | Opinion   |
+| Images Example: nelson Mandela photograph | Imagination   | Opinion   |
+
+# Class notes

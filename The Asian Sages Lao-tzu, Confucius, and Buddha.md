@@ -14,7 +14,7 @@
 > - Explain the problem posed by talking about nirvana
 
 [[Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015.pdf#page=55&selection=0,0,61,50|Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015, page 55]]
-## Laozi (Lao-tzu) 
+## #Laozi (Lao-tzu) 
 575 B.C.E
 
 > Chapter 1 of the Tao te Ching:
@@ -52,7 +52,7 @@ contentness vs gain of more??
 
 [[Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015.pdf#page=76&selection=87,0,94,13|Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015, page 76]]
 
-## Confucius
+## #Confucius
 551-497 B.C.E
 
 > "Guide the people by governmental measures,” he said, “and regulate them by the threat of punishment, and the people will have no sense of honor and shame. Guide the people by virtue and regulate them by li (rules of conduct and sense of propriety), and the people will have a sense of honor and respect”
@@ -66,13 +66,13 @@ contentness vs gain of more??
 [[Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015.pdf#page=70&selection=92,0,98,0|Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015, page 70]]
 Laozi had a more vibes based idea of Tao, while Confucius led the idea that it should define human conduct.
 
-## Buddha
+## #Buddha
 
 Siddhārtha Gautama (c. 560–480 b.c.e.)
 
 #### TLDR:
 Sheilded from reality by parents
-Escaped and saw [[Notes#Four signs]]
+Escaped and saw [[The Asian Sages Lao-tzu, Confucius, and Buddha#Four signs]]
 
 
 
