@@ -121,39 +121,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dcd3259c84745981",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Philosophy and the Search for Wisdom.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Philosophy and the Search for Wisdom"
-            }
-          },
-          {
-            "id": "ebf8b4057a2af0be",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Info.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Info"
-            }
-          },
-          {
             "id": "1faa365adfc0f613",
             "type": "leaf",
             "state": {
@@ -172,10 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Info.md"
+                "file": "The Philosopher-King Plato.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Info"
+              "title": "Outline of The Philosopher-King Plato"
             }
           },
           {
@@ -189,7 +159,47 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
+      },
+      {
+        "id": "f18baf8a4aea7876",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebf8b4057a2af0be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "The Philosopher-King Plato.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from The Philosopher-King Plato"
+            }
+          },
+          {
+            "id": "dcd3259c84745981",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The Philosopher-King Plato.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for The Philosopher-King Plato"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,7 +216,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e99c6163dc064488",
+  "active": "bc58395c40e84f25",
   "lastOpenFiles": [
     "Books/Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015.pdf",
     "The Philosopher-King Plato.md",

@@ -2,7 +2,9 @@
 
 ##  Identify the sources of Plato’s disillusionment. 
 
+The Elite mob 
 ##  Explain the creation of #The_Academy and its chief purpose. 
+
 
 ##  Explain why Plato needed Forms. 
 
@@ -44,3 +46,8 @@ Plato wrote a lot. From the [[The Wise Man Socrates]] chapter a good portion of 
 | Images Example: nelson Mandela photograph | Imagination   | Opinion   |
 
 # Class notes
+
+#Plato means broad (something about broad shoulders)
+Seemed good at everything.
+Plato wrote a boat ton of stuff.
+
