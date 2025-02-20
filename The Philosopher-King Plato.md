@@ -14,14 +14,25 @@ The Elite and the mob.
 
 ##  Explain why Plato needed Forms. 
 
-##  Distinguish between knowledge and opinion, according to Plato. 
+He comes up with this to distinguish knowledge and opinions (Beliefs)
 
-##  Differentiate between instrumental and functionalist theories of morality. 
+> The Platonic Forms are independently existing, nonspatial, nontemporal “some- things” (“kinds,” “types,” or “sorts”) that cannot be known through the senses. Known in thought, these Forms are not ideas in the usual sense. Knowledge is always about Forms
+
+[[Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015.pdf#page=166&selection=77,0,84,11|Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015, page 166]]
+## Distinguish between knowledge and opinion, according to Plato. 
+
+
+## Differentiate between instrumental and functionalist theories of morality. 
+### Instrumental
+A moral position that right and wrong must be determined by the consequences of acts; right and wrong viewed as means (instruments) for getting something else.
+### Functional
+A moral position that right and wrong can be understood only in terms of their effect on anything's natural function; each kind of thing has a natural purpose (function).
 
 ##  Describe the Allegory of the Cave. 
 
 ##  Rank the four cardinal virtues, according to Plato. 
 
+Temperance, Courage, Wisdom, Justice
 ##  Assess Plato’s claim that society consists of three classes of people. 
 
 ##  Analyze Plato’s theory of the development and decline of democracy. 
@@ -75,5 +86,19 @@ Lead to many questions about if he made it up or was it some sort of mythologica
 ## Republic 
 #Plato thought that philosophers should be in charge.
 
+## #Plato's Human soul
+- Reason 
+- Spirit 
+- appetite x3
+
+## Forms 
+They exist through time ([[The Philosopher-King Plato#Explain why Plato needed Forms.]])
+By interacting with things you cant find the forms but what it does is a form.
+Before birth you live in the world of forms. When moving in to "reality" you lose most of the forms but you still have some left (you can tell when something is beautiful)
+
+Even if the physical things that have such forms disappear that form still exists.
+This establises some truth that can be defined
 # Resources 
 https://www.slideserve.com/Thomas/archetypes-of-wisdom : Slides of the chapter. Slimier to the main points in the book but misses (/ avoids) to mention the democracy to tyrant point.
+
+https://quizlet.com/626230243/flashcards
