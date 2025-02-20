@@ -16,7 +16,7 @@ The Elite and the mob.
 
 He comes up with this to distinguish knowledge and opinions (Beliefs)
 
-> The Platonic Forms are independently existing, nonspatial, nontemporal “some- things” (“kinds,” “types,” or “sorts”) that cannot be known through the senses. Known in thought, these Forms are not ideas in the usual sense. Knowledge is always about Forms
+> The Platonic Forms are independently existing, nonspatial, nontemporal “somethings” (“kinds,” “types,” or “sorts”) that cannot be known through the senses. Known in thought, these Forms are not ideas in the usual sense. Knowledge is always about Forms
 
 [[Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015.pdf#page=166&selection=77,0,84,11|Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015, page 166]]
 ## Distinguish between knowledge and opinion, according to Plato. 
@@ -30,6 +30,13 @@ A moral position that right and wrong can be understood only in terms of their e
 
 ##  Describe the Allegory of the Cave. 
 
+> The levels of awareness identified in the Allegory of the Cave correspond to the segments of the Divided Line referred to in Figure 5.1: Those chained to the wall of shadows are imprisoned in the shadowy world of imagination and illusion (D); those loose within the cave occupy the “common sense” world of perception and informed opinion (C); those struggling through the passageway to the surface are acquiring knowledge through reason (B); the rich surface world of warmth and sun- light is the highest level of reality directly grasped by pure intelligence (A).
+
+[[Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015.pdf#page=176&selection=45,0,59,2|Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015, page 176]]
+
+Shadows -> the real physical space but what you understand is just the idea
+
+People once out of the cave can't go back.
 ##  Rank the four cardinal virtues, according to Plato. 
 
 Temperance, Courage, Wisdom, Justice
@@ -89,15 +96,15 @@ Lead to many questions about if he made it up or was it some sort of mythologica
 ## #Plato's Human soul
 - Reason 
 - Spirit 
-- appetite x3
+- Appetite
 
 ## Forms 
 They exist through time ([[The Philosopher-King Plato#Explain why Plato needed Forms.]])
-By interacting with things you cant find the forms but what it does is a form.
-Before birth you live in the world of forms. When moving in to "reality" you lose most of the forms but you still have some left (you can tell when something is beautiful)
+By interacting with things you can't find the forms but what it does is a form.
+Before birth, you live in the world of forms. When moving in to "reality" you lose most of the forms, but you still have some left (you can tell when something is beautiful)
 
 Even if the physical things that have such forms disappear that form still exists.
-This establises some truth that can be defined
+This establishes some truth that can be defined.
 # Resources 
 https://www.slideserve.com/Thomas/archetypes-of-wisdom : Slides of the chapter. Slimier to the main points in the book but misses (/ avoids) to mention the democracy to tyrant point.
 
