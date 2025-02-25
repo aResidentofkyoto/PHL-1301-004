@@ -5,7 +5,8 @@
 		{"id":"43e9c91e92763f0a","type":"text","text":"#Confucius (551-497 BCE)","x":160,"y":-400,"width":280,"height":60},
 		{"id":"188688a5c0b5c961","type":"text","text":"#Socrates (470-399 BCE)","x":500,"y":-284,"width":260,"height":65},
 		{"id":"80ead6400be65302","type":"text","text":"#Plato (427-348 BCE)","x":860,"y":-281,"width":245,"height":60},
-		{"id":"c696f14889441a5d","x":1200,"y":-280,"width":280,"height":60,"type":"text","text":"#The_Academy (388 BCE)"}
+		{"id":"c696f14889441a5d","type":"text","text":"#The_Academy (388 BCE)","x":1200,"y":-280,"width":280,"height":60},
+		{"id":"15bf7eb7ebc76313","x":1620,"y":-281,"width":270,"height":60,"type":"text","text":"#Aristotle  (384-322 BCE)"}
 	],
 	"edges":[
 		{"id":"9674d9c7df2e8708","fromNode":"64ab0e416d0ef910","fromSide":"right","toNode":"43e9c91e92763f0a","toSide":"left"},
@@ -13,6 +14,7 @@
 		{"id":"01c76e26bf108c6a","fromNode":"52f00f911db9d8c3","fromSide":"right","toNode":"43e9c91e92763f0a","toSide":"left"},
 		{"id":"9beaa596ed11d8d8","fromNode":"52f00f911db9d8c3","fromSide":"right","toNode":"188688a5c0b5c961","toSide":"left"},
 		{"id":"c8859c554040b4d1","fromNode":"188688a5c0b5c961","fromSide":"right","toNode":"80ead6400be65302","toSide":"left"},
-		{"id":"4a99eb28a1d0b10f","fromNode":"80ead6400be65302","fromSide":"right","toNode":"c696f14889441a5d","toSide":"left"}
+		{"id":"4a99eb28a1d0b10f","fromNode":"80ead6400be65302","fromSide":"right","toNode":"c696f14889441a5d","toSide":"left"},
+		{"id":"42e325f0b3cdc478","fromNode":"c696f14889441a5d","fromSide":"right","toNode":"15bf7eb7ebc76313","toSide":"left"}
 	]
 }

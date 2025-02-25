@@ -32,6 +32,33 @@
               "icon": "lucide-file-text",
               "title": "Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015"
             }
+          },
+          {
+            "id": "07607b3bbb29616c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Timeline.canvas",
+                "viewState": {
+                  "x": 1995.7468749999994,
+                  "y": -309.5,
+                  "zoom": -0.21948082591654464
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "aa28ea8528b67ba2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ]
       }
@@ -65,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Perictione",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +113,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -187,7 +215,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,8 +233,8 @@
   "lastOpenFiles": [
     "Books/Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015.pdf",
     "The Naturalist Aristotle.md",
-    "The Philosopher-King Plato.md",
     "Timeline.canvas",
+    "The Philosopher-King Plato.md",
     "The Asian Sages Lao-tzu, Confucius, and Buddha.md",
     "The Wise Man Socrates.md",
     "Divided line.canvas",
