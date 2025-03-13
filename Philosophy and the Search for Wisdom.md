@@ -3,8 +3,8 @@
 [[Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015.pdf#page=43&selection=65,0,72,22|Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015, page 43]]
 
 Is there a way to tell if someone has a relative viewpoint?
-	#omo: If the person forms an opinion and says that there is no full truth.
-	#Class:
+	On my own: If the person forms an opinion and says that there is no full truth.
+	Class:
 
 # Slides
 ## Order of ideas
@@ -26,12 +26,12 @@ wisdom using experienced knowledge
 
 [[Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015.pdf#page=36&selection=45,0,50,11|Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015, page 36]]
 
-#teacher: What does this mean.
-#Class: Applying your own thoughts.
-#teacher: Applying logic / process defines philosophizing.
+Teacher: What does this mean.
+Class: Applying your own thoughts.
+Teacher: Applying logic / process defines philosophizing.
 
 ## Archetype definition
-#Class & #teacher : common traits of a role
+Class & Teacher : common traits of a role
 
 ## Branches
 
@@ -42,34 +42,34 @@ origin: written after Aristotle's physics book
 ## Epistemology
 Define: define what is true and how to acquire truth.
 
-#omo: Is truth the same as facts?
+On my own: Is truth the same as facts?
 
 ### Ethics
-#class Define: right vs wrong
-#teacher define: right wrong and why
+Class Define: right vs wrong
+Teacher define: right wrong and why
 
 ### Social and political philosophy
-#Class define: Philosophy of government and society. What should the government do.
+Class define: Philosophy of government and society. What should the government do.
 
 ### Logic
-#Class define: reasoning.
-#teacher define: tool set on how to philosophy.
+Class define: reasoning.
+Teacher define: tool set on how to philosophy.
 
-#omo Applying logic on words (a thing you do in a logic class). Basically how AI works in reverse.
+On my own Applying logic on words (a thing you do in a logic class). Basically how AI works in reverse.
 ### Axiology
 Define: The study of values and value judgments. 
 
 ### Aesthetics
-#Class Define: what make something beautiful
+Class Define: what make something beautiful
 
 ### Ontology
-#Class define: what does it mean to be {insert thing}
+Class define: what does it mean to be {insert thing}
 
 ### Existentialism
-#omo define: why are we here everything that comes up in a mental breakdown
+On my own define: why are we here everything that comes up in a mental breakdown
 
 ## Relativism
-#Class Define: There is not one universal truth.
+Class Define: There is not one universal truth.
 Define: the philosophical doctrine that all criteria of judgment are relative to the individuals and situations involved
 
 Truth is relative to each person / culture
@@ -78,4 +78,4 @@ Truth is relative to each person / culture
 Define: Knowledge related to facts.
 Define: Belief is related to things that don't have facts.
 
-#omo Reason people don't trust academic papers.
+On my own Reason people don't trust academic papers.

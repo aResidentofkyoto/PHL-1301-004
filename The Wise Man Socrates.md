@@ -38,7 +38,7 @@
 
 [[Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015.pdf#page=134&selection=66,0,74,18|Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015, page 134]]
 
-# #Class Notes
+# Class Notes
 
 ## #Socrates info
 470-399 BCE

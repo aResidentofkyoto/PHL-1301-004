@@ -23,7 +23,7 @@
 
 [[Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015.pdf#page=59&selection=92,0,103,7|Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015, page 59]]
 
-#Class : You can not pin down what Tao is
+Class : You can not pin down what Tao is
 
 ### Vagueness in eastern philosophy
 It makes it open to more interpretation and harder to prove. It leads to greater adoption. More connection to everyone.
@@ -91,8 +91,8 @@ Escaped and saw [[The Asian Sages Lao-tzu, Confucius, and Buddha#Four signs]]
 
 [[Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015.pdf#page=81&selection=75,0,94,72|Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015, page 81]]
 
-1. There is always suffering. #omo Dopemine cycle 
-2. We are wanting things to go the right way but because of self centeredness cause suffering. #omo: people are greedy even if you aren't your self others can inflict suffering. 
+1. There is always suffering. On my own Dopemine cycle 
+2. We are wanting things to go the right way but because of self centeredness cause suffering. On my own: people are greedy even if you aren't your self others can inflict suffering. 
 3. For things you can control you can control suffering.
 4. follow my steps/Change your viewpoint to help your suffering.
 ### Nirvana
@@ -112,7 +112,7 @@ Escaped and saw [[The Asian Sages Lao-tzu, Confucius, and Buddha#Four signs]]
 > 3. Right speech 
 > 4. Right conduct 
 > 5. Right livelihood 
-> 6. Right effort ( #omo realisticness) 
+> 6. Right effort ( On my own realisticness) 
 > 7. Right mindfulness (or awareness) 
 > 8. Right meditation
 
@@ -125,4 +125,4 @@ Escaped and saw [[The Asian Sages Lao-tzu, Confucius, and Buddha#Four signs]]
 [[Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015.pdf#page=86&selection=48,0,58,7|Archetypes of Wisdom An Introduction to Philosophy -- Douglas J_ Soccio -- 9, 2015, page 86]]
 
 ### Middle path
-#omo From a scene of religion Buddha took a middle path a “morally better” route
+On my own From a scene of religion Buddha took a middle path a “morally better” route
